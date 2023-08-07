@@ -10,3 +10,5 @@ Steps to reproduce this issue:
 4.  `npm run build`
     
 5.  `npm run start`
+
+6.  Open your browser to default `http://localhost:3000`
